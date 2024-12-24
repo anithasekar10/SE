@@ -1,0 +1,12 @@
+LMS confluence
+
+create project e.t.c
+create issues
+go to left corner icon select confluence
+give create in that select page
+give page a tittle 
+after select the +icon in that select jira issues
+in top right corner change from basic to jql
+one box will open click and give enter in that box
+after give insert issues
+
